@@ -13,12 +13,12 @@
 ---
 
 - _Big-O Notation_
-  > Her adımda bütün elemanları gezdiği için en kötü ihtimalde O(n²)dir.
+   Her adımda bütün elemanları gezdiği için en kötü ihtimalde O(n²)dir.
 
 ---
 
 - Time Complexity
-  > Dizi sıralandıktan sonra 18 sayısı ortada olduğu için Average case kapsamına girer.
+   Dizi sıralandıktan sonra 18 sayısı ortada olduğu için Average case kapsamına girer.
 
 ---
 
