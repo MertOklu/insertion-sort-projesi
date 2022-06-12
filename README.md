@@ -1,8 +1,8 @@
 # insertion-sort-projesi
 
 - _[22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamalarını yazınız._
- >
-   [22,27,16,2,18,6] 
+ 
+  > [22,27,16,2,18,6] 
    
    [2,27,16,22,18,6] 
    
